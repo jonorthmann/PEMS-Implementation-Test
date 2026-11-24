@@ -1,0 +1,1 @@
+{"name":"pems-implementation","version":"0.1.1","private":true,"type":"module","engines":{"node":"24.x"},"scripts":{"start":"node server.js","test":"node --test"},"dependencies":{"@azure/identity":"^4.0.0","@azure/storage-blob":"^12.0.0","csv-parse":"^6.0.0","pdfkit":"^0.21.0"}}
